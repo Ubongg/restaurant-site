@@ -2,6 +2,7 @@ html{
   --headerFont: 'Montez', cursive;
   --primaryColor: #b48c80;
   --secondHeaderFont: 'Suranna', serif;
+  --brightBlack: #252525;
 }
 body {
       font-family: 'Montserrat-UltraLight',
@@ -11,6 +12,7 @@ body {
       line-height: 23px;
       color: #777777;
       background-color: #fff;
+      height: 200vh;
 }
 *{
   margin: 0;

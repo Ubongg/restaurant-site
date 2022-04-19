@@ -1,8 +1,13 @@
 import React from "react";
-import { soups } from "../data";
+import Hero from "../components/Hero";
+import "../styles/Hero.css";
 
 const Home = () => {
-  return <div>home</div>;
+  return (
+    <div>
+      <Hero />
+    </div>
+  );
 };
 
 export default Home;
